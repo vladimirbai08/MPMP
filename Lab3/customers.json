@@ -1,0 +1,17 @@
+[
+    {
+        "name": "John",
+        "customer_id": "003",
+        "purchase_history": [
+            "Networks",
+            "Numerical Methods"
+        ]
+    },
+    {
+        "name": "Bob",
+        "customer_id": "007",
+        "purchase_history": [
+            "Numerical Methods"
+        ]
+    }
+]
